@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debjitgho.github.io/react-app/static/css/main.073c9b0a.css",
+    "main.js": "/debjitgho.github.io/react-app/static/js/main.1c7c11f5.js",
+    "static/js/787.27a2fb94.chunk.js": "/debjitgho.github.io/react-app/static/js/787.27a2fb94.chunk.js",
+    "index.html": "/debjitgho.github.io/react-app/index.html",
+    "main.073c9b0a.css.map": "/debjitgho.github.io/react-app/static/css/main.073c9b0a.css.map",
+    "main.1c7c11f5.js.map": "/debjitgho.github.io/react-app/static/js/main.1c7c11f5.js.map",
+    "787.27a2fb94.chunk.js.map": "/debjitgho.github.io/react-app/static/js/787.27a2fb94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1c7c11f5.js"
+  ]
+}
